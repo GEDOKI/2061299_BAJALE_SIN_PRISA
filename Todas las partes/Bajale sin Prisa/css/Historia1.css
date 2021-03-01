@@ -1,0 +1,43 @@
+h1{color:GRAY;font-size:80px;text-align:left;margin-left: 70px;font-family: myfont;margin-bottom: 10px;padding-top: 2cm;}
+@font-face{font-family:myfont ; src:url(../font/KeepCalm-Medium.ttf);}
+
+p#tupapito{margin-top: 0px;
+    margin-bottom: 5px;
+    margin-right: 150px;
+    margin-left: 70px;font-family: "roboto";height: 300px;
+    width: 75%;color:black;font-size:20px;} 
+    #b{background: rgba(253, 228, 0, 0.664);width: 1330px;height: 10px;
+}
+
+    body {
+      background: rgb(255, 255, 255);
+      color: #000000;}
+     #tumama{border-radius: 30px ;
+      background: rgb(240, 240, 240)}
+header { 
+  padding: .5vw;
+  font-size: 0;
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
+  -ms-flex-direction: column;
+  -webkit-flex-flow: row wrap; 
+  flex-flow: row wrap; 
+  display: -webkit-box;
+  display: flex;
+}
+header div { 
+  -webkit-box-flex: auto;
+  -ms-flex: auto;
+  flex: auto; 
+  width: 200px; 
+  margin: .5vw; 
+}
+header div img { 
+  width: 100%; 
+  height: auto; 
+}
+@media screen and (max-width: 400px) {
+  header div { margin: 0; }
+  header { padding: 0; }
+  
+}

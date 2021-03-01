@@ -1,0 +1,52 @@
+/* General Styles */
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    background: rgb(255, 255, 255);
+    color: #000000;
+}
+/*fondo*/
+
+#a{
+    border-radius: 30px ;
+    background: rgb(240, 240, 240);
+}
+/*contenedor*/
+
+#la{
+    font-family:"keep calm";
+    font-size: 46px;
+    color:gray;
+}
+
+#le{
+    font-family:"roboto";
+    color:black;
+}
+
+#li{
+    font-family:"keep calm";
+    font-size: 46px;
+    color:gray;
+    text-align: right ;
+}
+
+#lo{
+    font-family:"roboto";
+    color:black;
+    text-align: right;
+}
+
+#lu{
+    text-align: right;
+}
+
+
+#b{background: rgba(253, 228, 0, 0.664);
+    font-family:"roboto";
+    color:black;
+}
+/*linea amarilla*/

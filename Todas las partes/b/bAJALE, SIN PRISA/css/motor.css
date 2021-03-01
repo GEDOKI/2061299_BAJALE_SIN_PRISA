@@ -1,0 +1,27 @@
+h1{color:GRAY;font-size:80px;font-family: myfont;margin-bottom: 0px;}
+@font-face{font-family:myfont ; src:url(../font/KeepCalm-Medium.ttf);}
+#drac{margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 700px;font-family: "roboto";height: 100px;
+    width: 610px;color:black;font-size:20px;text-align: right;}
+p{margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 30px;font-family: "roboto";height: 100px;
+    width: 550px;color:black;font-size:20px;}
+    body {
+        background: rgb(255, 255, 255);
+        color: #000000;}
+        #a{
+            border-radius: 30px ;
+            background: rgb(240, 240, 240);
+        }
+        #lol{text-align: right;}
+        #lel{text-align: left;
+        padding-top: 2cm;}
+       
+     
+        #b{background: rgba(253, 228, 0, 0.664);width: 1330px;height: 10px }
+        #sil{position: relative;
+            margin-left: 700px;}
