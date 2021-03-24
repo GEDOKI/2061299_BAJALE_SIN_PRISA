@@ -5,7 +5,14 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
- 
+
+nav {
+	text-align: center;
+	font-size: 24pt;
+	
+}
+
+
 body {background:#e2e2e2;}
  
 .menu_bar {
