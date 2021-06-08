@@ -26,3 +26,12 @@ p{margin-top: 0px;
         #b{background: rgba(253, 228, 0, 0.664);width: 1330px;height: 10px }
         #sil{position: relative;
             margin-left: 700px;}
+        #Todo {
+             text-align: center;       
+        }
+        #xd {
+            text-align: center; 
+        }
+        .br{
+            text-align: center; 
+        }
