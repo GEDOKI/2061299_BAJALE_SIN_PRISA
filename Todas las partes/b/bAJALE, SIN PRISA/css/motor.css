@@ -3,11 +3,12 @@ h1{color:GRAY;font-size:80px;font-family: myfont;margin-bottom: 0px;}
 #drac{margin-top: 0px;
     margin-bottom: 0px;
     margin-right: 0px;
-    margin-left: 700px;font-family: "roboto";height: 100px;
+    text-align:center;
     width: 610px;color:black;font-size:20px;text-align: right;}
 p{margin-top: 0px;
     margin-bottom: 0px;
     margin-right: 0px;
+    text-align:center;
     margin-left: 30px;font-family: "roboto";height: 100px;
     width: 550px;color:black;font-size:20px;}
     body {
