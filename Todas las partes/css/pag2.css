@@ -11,18 +11,21 @@ body {
 /*fondo*/
 
 #a{
+    text-align:center;
     border-radius: 30px ;
     background: rgb(240, 240, 240);
 }
 /*contenedor*/
 
 #la{
+    text-align:center;
     font-family:"keep calm";
     font-size: 46px;
     color:gray;
 }
 
 #le{
+    text-align:center;
     font-family:"roboto";
     color:black;
 }
