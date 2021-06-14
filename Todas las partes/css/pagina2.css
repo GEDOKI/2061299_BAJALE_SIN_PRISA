@@ -4,7 +4,12 @@ p{margin-right:0px; border:2px  ;padding:20px; width: 500px;height:200px ;float:
 body{background-image: url(fondomagico.jpg); background-repeat: no-repeat;background-repeat: no-repeat; background-size: cover; }
 
   
+
 .galeria img {
+  margin-top: 50px;
+}
+.galeria img {
+    
     position: absolute;
     top: 170px;
     left: 438px;

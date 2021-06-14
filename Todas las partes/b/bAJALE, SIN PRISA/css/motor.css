@@ -13,15 +13,16 @@ h1{color:GRAY;font-size:80px;font-family: myfont;margin-bottom: 0px;}
             text-align: center;
         }
         #Z {
+            
             text-align: center;
             font-size: 20pt;
-            font-family:"";
+            font-family:"roboto";
             color:black;
         }
 
         #x{
             text-align: center;
             font-size: 20pt;
-            font-family:"";
+            font-family:"roboto";
             color:black; 
         }
