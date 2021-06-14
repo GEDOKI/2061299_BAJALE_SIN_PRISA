@@ -5,16 +5,23 @@ h1{color:GRAY;font-size:80px;font-family: myfont;margin-bottom: 0px;}
     margin-right: 0px;
     text-align:center;
     width: 610px;color:black;font-size:20px;text-align: right;}
-    p{margin-top: 0px;
-    margin-bottom: 0px;
-    margin-right: 0px;
-    text-align:center;
-    margin-left: 30px;font-family: "roboto";height: 100px;
-    width: 550px;color:black;font-size:20px;}
     body {
         background: rgb(255, 255, 255);
         color: #000000;}
         #b{background: rgba(253, 228, 0, 0.664);width: 1330px;height: 10px }
         #Todo {
             text-align: center;
+        }
+        #Z {
+            text-align: center;
+            font-size: 20pt;
+            font-family:"";
+            color:black;
+        }
+
+        #x{
+            text-align: center;
+            font-size: 20pt;
+            font-family:"";
+            color:black; 
         }
