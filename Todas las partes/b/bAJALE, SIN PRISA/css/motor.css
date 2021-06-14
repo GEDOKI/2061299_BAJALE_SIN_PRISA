@@ -16,11 +16,5 @@ h1{color:GRAY;font-size:80px;font-family: myfont;margin-bottom: 0px;}
         color: #000000;}
         #b{background: rgba(253, 228, 0, 0.664);width: 1330px;height: 10px }
         #Todo {
-             text-align: center;       
-        }
-        p {
-            text-align: center; 
-        }
-        .br{
-            text-align: center; 
+            text-align: center;
         }
