@@ -8,3 +8,7 @@ body{background-color: white;}
 #oo{margin-right:20px;  border:2px  ;padding:20px; width: 500px;height:200px;float: left;margin-top: 0px; ;font-family: 'Roboto';font-size: 18px ;margin-left:20px;   }
 #jo{font-family:"myfont"; font-size: 46px;margin-left:120px;color:gray;margin-bottom: 0px;margin-top: 50px; }
 div{border-radius: 30px ;background-color:  rgb(240, 240, 240);}
+
+x{
+    margin-top: 10px;
+}
