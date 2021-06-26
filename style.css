@@ -23,7 +23,7 @@ header {
 }
  
 header nav {
-	background:#E86114;
+	background:#F29100;
 	z-index:1000;
 	max-width: 1000px;
 	width:95%;
@@ -40,7 +40,7 @@ header nav ul li {
 }
  
 header nav ul li:hover {
-	background:#FF8B4A;
+	background:#f59910;
 }
  
 header nav ul li a {
@@ -60,7 +60,7 @@ header nav ul li:hover .children {
  
 header nav ul li .children {
 	display: none;
-	background:#E86114;
+	background:#f59910;
 	position: absolute;
 	width: 100%;
 	z-index:1000;
