@@ -25,7 +25,7 @@ header {
 header nav {
 	background:#F29100;
 	z-index:1000;
-	max-width: 1000px;
+	max-width: auto;
 	width:95%;
 	margin:20px auto;
 }
